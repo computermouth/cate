@@ -1,3 +1,5 @@
+# Simple cacher for compute@Edge
+
 # Empty Starter Kit for Rust
 
 An empty project template for Rust Compute@Edge programs that returns an empty `200 OK` response for
